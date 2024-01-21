@@ -1,2 +1,2 @@
-# ML From Scratch
+# ML
  
